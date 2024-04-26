@@ -1,5 +1,5 @@
 # Wriggle Survey
-Wriggle Survey is as-built tunnel center by taking points (3d-coordinate) around circle of tunnel. The code was computed by Line of Best Fit Method and Circle of Best Fit Method.
+Wriggle Survey is as-built tunnel center by taking points (3d-coordinate) around circle of tunnel. The code was computed by Line of Best-Fit Method and Circle of Best-Fit Method.
 I created the code 2 languages which're python and vba excel.
 
 ![Cover Wriggle 8pt MWA-Model](https://github.com/suben-mk/Wriggle-Survey-for-Metro-Line/assets/89971741/5bbe4814-a8e9-4ab3-9e8f-6aa5bb5ffdd0)
