@@ -2,7 +2,7 @@
 **Wriggle Survey** คือการหาตำแหน่งจุดศูนย์กลางอุโมงค์ (As-built Tunnel Center) ของแต่ละ Ring Tunnel Segment หลังจากการเจาะอุโมงค์เสร็จเรียบร้อยแล้ว โดยการเก็บข้อมูลจะเก็บเป็นข้อมูลพิกัด 3 มิติ (3d-coordinate) รอบๆวงกลมของอุโมงค์ตามตัวอย่างรูปด้านล่าง 
 การคำนวณหาตำแหน่งจุดศูนย์กลางอุโมงค์จะคำนวณด้วยวิธี Line of Best-Fit และวิธี Circle of Best-Fit ซึ่งผลลัพธ์ที่ได้จะได้ค่าพิกัด 3 มิติและรัศมีเฉลี่ย (Average Radius) ของตำแหน่งจุดศูนย์กลางอุโมงค์ หลังจากนั้นก็จะนำผลลัพธ์พิกัด 3 มิติไปเทียบกับค่าออกแบบแนวอุโมงค์ (Tunnel Alignment) เพื่อคำนวณหาค่าเยื้องศูนย์จากแนวอุโมงค์ (Tunnel Deviation) จะได้ค่าเยื้องศูนย์ทางราบ (Horizontal Deviation) และค่าเยื้องศูนย์ทางดิ่ง (Verical Deviation)
 
-ผมได้เขียนโค้ดสำหรับการคำนวณ Wriggle Survey ไว้ 2 ภาษา คือภาษา Python และภาษา VBA Excel
+ผู้เขียนได้เขียนโค้ดสำหรับการคำนวณ Wriggle Survey ไว้ 2 ภาษา คือภาษา Python และภาษา VBA Excel
 
 ### Wriggle Survey Points Scheme
 ![Cover Wriggle 8pt MWA-Model](https://github.com/suben-mk/Wriggle-Survey-for-Metro-Line/assets/89971741/5bbe4814-a8e9-4ab3-9e8f-6aa5bb5ffdd0)
