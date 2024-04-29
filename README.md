@@ -30,7 +30,7 @@ _(Credit : นายช่างอานนท์ วิศวกรสำร�
   3. รันไฟล์ Python
 ### VBA
   1. เปิดไฟล์ [VBA - Wriggle Survey Program (Best-Fit Circle 3D) Rev.07.xlsm](https://github.com/suben-mk/Wriggle-Survey-for-Metro-Line/blob/main/VBA/VBA%20-%20Wriggle%20Survey%20Program%20(Best-Fit%20Circle%203D)%20Rev.07.xlsm)
-  2. เตรียมข้อมูล Wriggle Survey ที่ Import Wriggle Data Sheet และข้อมูล Tunnel Axis ที่ Import Tunnel Axis (DTA) sheet
+  2. เตรียมข้อมูล Wriggle Survey, Tunnel diameter design ที่ Import Wriggle Data Sheet และข้อมูล Tunnel Axis, Excavation direction ที่ Import Tunnel Axis (DTA) sheet
      
      ![2024-04-26_091625](https://github.com/suben-mk/Wriggle-Survey-for-Metro-Line/assets/89971741/9ed4a691-eb48-4b68-b54c-1e34a2da08d7)
 
